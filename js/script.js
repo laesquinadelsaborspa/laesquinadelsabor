@@ -27,7 +27,7 @@ const IMG={
   "3 · Completo": "img/churrascos/3-completo.jpg",
   "4 · Experto": "img/churrascos/4-experto.jpg",
   "1 · Promo Papas Chicas": "img/promos/1-promo-papas-chicas.jpg",
-  "Promo Pollo Broaster": "img/promos/2-promo-pollo-broaster.jpg",
+  "2 · Promo Pollo Broaster": "img/promos/2-promo-pollo-broaster.jpg",
   "3 · Promo Perro Normal": "img/promos/3-promo-perro-normal.jpg",
   "4 · Promo Devoradora": "img/promos/4-promo-devoradora.jpg",
   "5 · Promo Italiano": "img/promos/5-promo-italiano.jpg",
@@ -41,7 +41,7 @@ const IMG={
 const CARTA=[
 ["promos","🔥 Promociones",null,[
 ["1 · Promo Papas Chicas","2 papas fritas chicas + 2 bebidas en lata","7.500"],
-["Promo Pollo Broaster","2 pollo broaster + Coca Cola 1.5L","16.000"],
+["2 · Promo Pollo Broaster","2 pollo broaster + Coca Cola 1.5L","16.000"],
 ["3 · Promo Perro Normal","2 perros calientes normales + 2 bebidas en lata","6.000"],
 ["4 · Promo Devoradora","2 salchipapas La Devoradora + Coca Cola 1.5L","18.000"],
 ["5 · Promo Italiano","2 completos italiano + 2 bebidas en lata","6.000"],
