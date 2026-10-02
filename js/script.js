@@ -41,7 +41,7 @@ const IMG={
 const CARTA=[
 ["promos","🔥 Promociones",null,[
 ["Primera · Promo Papas Chicas","2 papas fritas chicas + 2 bebidas en lata","7.500"],
-["Segunda · Promo Pollo Broaster","2 pollo broaster + Coca Cola 1.5L","16.000"],
+["Segunda  · Promo Pollo Broaster","2 pollo broaster + Coca Cola 1.5L","16.000"],
 ["Tercera · Promo Perro Normal","2 perros calientes normales + 2 bebidas en lata","6.000"],
 ["Cuarta · Promo Devoradora","2 salchipapas La Devoradora + Coca Cola 1.5L","18.000"],
 ["Quinta · Promo Italiano","2 completos italiano + 2 bebidas en lata","6.000"],
