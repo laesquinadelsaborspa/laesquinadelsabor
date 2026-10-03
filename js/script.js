@@ -78,8 +78,8 @@ const CARTA=[
 ["Papas Fritas Grandes","Porción grande","4.000"],
 ["Papas Fritas Chicas","Porción chica","2.500"]]],
 ["beb","🥤 Bebidas",null,[
-["Lata Coca Cola / Pepsi","","1.200"],["Inka Kola chica","","1.700"],["Guaraná chica","","1.500"],
-["Coca Cola botella","","1.500"],["Sprite botella","","1.500"],["Fanta botella","","1.500"],["Fruna botella","","800"],
+["Lata Coca Cola / Pepsi","","1.500"],["Inka Kola chica","","1.700"],["Guaraná chica","","1.700"],
+["Coca Cola botella","","1.700"],["Sprite botella","","1.700"],["Fanta botella","","1.700"],["Fruna botella","","800"],
 ["Coca Cola 1.5L","","2.500"],["Inka Kola 1.5L","","3.500"],["Agua Vital (con o sin gas)","","900"]]]
 ];
 let n="",h="";
